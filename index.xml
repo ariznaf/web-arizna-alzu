@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web de la Familia Ariznavarreta Alzu on Familia Ariznavarreta Alzu</title>
-    <link>https://example.com/</link>
+    <link>https://ariznaf.github.io/web-arizna-alzu/</link>
     <description>Recent content in Web de la Familia Ariznavarreta Alzu on Familia Ariznavarreta Alzu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 23 Jun 2020 11:03:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jun 2020 11:03:00 +0000</lastBuildDate><atom:link href="https://ariznaf.github.io/web-arizna-alzu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fotografía libre</title>
-      <link>https://example.com/aficiones/foto/fotografia-libre/</link>
+      <link>https://ariznaf.github.io/web-arizna-alzu/aficiones/foto/fotografia-libre/</link>
       <pubDate>Tue, 23 Jun 2020 11:03:00 +0000</pubDate>
       
-      <guid>https://example.com/aficiones/foto/fotografia-libre/</guid>
+      <guid>https://ariznaf.github.io/web-arizna-alzu/aficiones/foto/fotografia-libre/</guid>
       <description>Libro digital sobre el procesado y revelado de fotografías empleando software libre.</description>
     </item>
     
     <item>
       <title>Percepción y representación del color</title>
-      <link>https://example.com/aficiones/foto/percepcion-y-representacion-del-color/</link>
+      <link>https://ariznaf.github.io/web-arizna-alzu/aficiones/foto/percepcion-y-representacion-del-color/</link>
       <pubDate>Tue, 05 May 2020 20:43:00 +0000</pubDate>
       
-      <guid>https://example.com/aficiones/foto/percepcion-y-representacion-del-color/</guid>
+      <guid>https://ariznaf.github.io/web-arizna-alzu/aficiones/foto/percepcion-y-representacion-del-color/</guid>
       <description>Artículo explicativo de cómo funciona la visión humana y cómo percibimos los colores los seres humanos y cómo se puede representar matemáticamente dicha percepción.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/aficiones/foto/kk/</link>
+      <link>https://ariznaf.github.io/web-arizna-alzu/aficiones/foto/kk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/aficiones/foto/kk/</guid>
+      <guid>https://ariznaf.github.io/web-arizna-alzu/aficiones/foto/kk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>https://example.com/contacto/</link>
+      <link>https://ariznaf.github.io/web-arizna-alzu/contacto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contacto/</guid>
+      <guid>https://ariznaf.github.io/web-arizna-alzu/contacto/</guid>
       <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
 Tu nombreDirección de correo electrónicoSe requiere una dirección de correo electrónico.Mensaje</description>
     </item>
     
     <item>
       <title>Sobre nosotros</title>
-      <link>https://example.com/acercade/</link>
+      <link>https://ariznaf.github.io/web-arizna-alzu/acercade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/acercade/</guid>
+      <guid>https://ariznaf.github.io/web-arizna-alzu/acercade/</guid>
       <description>Illustration from Victor Hugo et son temps (1881)   The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
     </item>
     

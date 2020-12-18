@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aficiones on Familia Ariznavarreta Alzu</title>
-    <link>https://example.com/aficiones/</link>
+    <link>https://ariznaf.github.io/web-arizna-alzu/aficiones/</link>
     <description>Recent content in Aficiones on Familia Ariznavarreta Alzu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 23 Jun 2020 11:03:00 +0000</lastBuildDate><atom:link href="https://example.com/aficiones/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jun 2020 11:03:00 +0000</lastBuildDate><atom:link href="https://ariznaf.github.io/web-arizna-alzu/aficiones/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
