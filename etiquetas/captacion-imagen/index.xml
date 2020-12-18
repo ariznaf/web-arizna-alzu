@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>captacion-imagen on Familia Ariznavarreta Alzu</title>
+    <link>https://example.com/etiquetas/captacion-imagen/</link>
+    <description>Recent content in captacion-imagen on Familia Ariznavarreta Alzu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 05 May 2020 20:43:00 +0000</lastBuildDate><atom:link href="https://example.com/etiquetas/captacion-imagen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Percepción y representación del color</title>
+      <link>https://example.com/aficiones/foto/percepcion-y-representacion-del-color/</link>
+      <pubDate>Tue, 05 May 2020 20:43:00 +0000</pubDate>
+      
+      <guid>https://example.com/aficiones/foto/percepcion-y-representacion-del-color/</guid>
+      <description>Artículo explicativo de cómo funciona la visión humana y cómo percibimos los colores los seres humanos y cómo se puede representar matemáticamente dicha percepción.</description>
+    </item>
+    
+  </channel>
+</rss>
