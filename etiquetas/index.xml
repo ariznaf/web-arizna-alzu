@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Etiquetas on Familia Ariznavarreta Alzu</title>
-    <link>https://ariznaf.github.io/web-arizna-alzu/etiquetas/</link>
+    <link>/etiquetas/</link>
     <description>Recent content in Etiquetas on Familia Ariznavarreta Alzu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 23 Jun 2020 11:03:00 +0000</lastBuildDate><atom:link href="https://ariznaf.github.io/web-arizna-alzu/etiquetas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jun 2020 11:03:00 +0000</lastBuildDate><atom:link href="/etiquetas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aprendizaje</title>
-      <link>https://ariznaf.github.io/web-arizna-alzu/etiquetas/aprendizaje/</link>
+      <link>/etiquetas/aprendizaje/</link>
       <pubDate>Tue, 23 Jun 2020 11:03:00 +0000</pubDate>
       
-      <guid>https://ariznaf.github.io/web-arizna-alzu/etiquetas/aprendizaje/</guid>
+      <guid>/etiquetas/aprendizaje/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Libros</title>
-      <link>https://ariznaf.github.io/web-arizna-alzu/etiquetas/libros/</link>
+      <link>/etiquetas/libros/</link>
       <pubDate>Tue, 23 Jun 2020 11:03:00 +0000</pubDate>
       
-      <guid>https://ariznaf.github.io/web-arizna-alzu/etiquetas/libros/</guid>
+      <guid>/etiquetas/libros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Revelado digital</title>
-      <link>https://ariznaf.github.io/web-arizna-alzu/etiquetas/revelado-digital/</link>
+      <link>/etiquetas/revelado-digital/</link>
       <pubDate>Tue, 23 Jun 2020 11:03:00 +0000</pubDate>
       
-      <guid>https://ariznaf.github.io/web-arizna-alzu/etiquetas/revelado-digital/</guid>
+      <guid>/etiquetas/revelado-digital/</guid>
       <description></description>
     </item>
     
     <item>
       <title>captacion-imagen</title>
-      <link>https://ariznaf.github.io/web-arizna-alzu/etiquetas/captacion-imagen/</link>
+      <link>/etiquetas/captacion-imagen/</link>
       <pubDate>Tue, 05 May 2020 20:43:00 +0000</pubDate>
       
-      <guid>https://ariznaf.github.io/web-arizna-alzu/etiquetas/captacion-imagen/</guid>
+      <guid>/etiquetas/captacion-imagen/</guid>
       <description></description>
     </item>
     

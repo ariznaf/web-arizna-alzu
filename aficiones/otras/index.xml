@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Otras aficiones on Familia Ariznavarreta Alzu</title>
-    <link>https://ariznaf.github.io/web-arizna-alzu/aficiones/otras/</link>
+    <link>/aficiones/otras/</link>
     <description>Recent content in Otras aficiones on Familia Ariznavarreta Alzu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language><atom:link href="https://ariznaf.github.io/web-arizna-alzu/aficiones/otras/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-es</language><atom:link href="/aficiones/otras/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
