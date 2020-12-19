@@ -6,14 +6,86 @@
     <description>Recent content in Web de la Familia Ariznavarreta Alzu on Familia Ariznavarreta Alzu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 23 Jun 2020 11:03:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Oct 2020 09:35:12 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Darktable: el revelador del futuro</title>
+      <link>/aficiones/foto/darktable/</link>
+      <pubDate>Sun, 25 Oct 2020 09:35:12 +0000</pubDate>
+      
+      <guid>/aficiones/foto/darktable/</guid>
+      <description>Darktable es un programa revelador opensource que también tiene una parte de clasificación de imágenes.
+Está disponible paraWindows, Linux (en sus varias acepciones) y maxOS. Podríamos decir que es la versión opensource de Lightroom.
+Pero a pesar de que la interface se parezca algo, quien espere poder revelar sus imágenes de forma similar a como lo hacía con LR se llevará una desagradable sorpresa.
+La forma de hacer las cosas en DT es bastante diferente, y muchas veces tiene unas herramientas muy avanzadas pero complejas.</description>
+    </item>
+    
+    <item>
+      <title>Revelado por zonas</title>
+      <link>/aficiones/foto/revelado-zonas/</link>
+      <pubDate>Sun, 25 Oct 2020 08:41:26 +0000</pubDate>
+      
+      <guid>/aficiones/foto/revelado-zonas/</guid>
+      <description>El revelado por zonas consiste en aplicar un efecto de revelado o procesado a una parte seleccionada de la imagen, en lugar de toda la imagen.
+Para ello se emplea generalmente una máscara de selección que determina la zona de la imagen a la que se aplicará.
+La máscara de selección puede ser tipo bitmap (habitual en los programas de procesado de imágenes como el Photoshop) o vectorial (como las utilizadas en darktable).</description>
+    </item>
+    
+    <item>
+      <title>Máscaras de luminosidad</title>
+      <link>/aficiones/foto/mascaras-de-luminosidad/</link>
+      <pubDate>Sun, 25 Oct 2020 08:40:30 +0000</pubDate>
+      
+      <guid>/aficiones/foto/mascaras-de-luminosidad/</guid>
+      <description>Máscaras de luminosidad Las máscaras de luminosidad son máscaras de tipo bitmap o bien vectoriales que se crean a partir de una imagen subyacente en función de los tonos existentes en dicha imagen.
+Así se puede seleccionar las partes de la imagen que corresponden a las luces, sombras o medios tonos, o bien crear máscaras que seleccionen un determinado rango de tonos.
+El valor de la máscara correspondiente a los tonos seleccionados es gradual, tomando el valor 0 en las zonas donde los tonos caen fuera del rango excluido (por exceso o por defecto).</description>
+    </item>
+    
+    <item>
+      <title>Enfoque a hiperfocal vs. enfoque a infinito</title>
+      <link>/aficiones/foto/enfoque-a-infinito/</link>
+      <pubDate>Sat, 24 Oct 2020 18:23:06 +0000</pubDate>
+      
+      <guid>/aficiones/foto/enfoque-a-infinito/</guid>
+      <description>Todos hemos oído hablar del enfoque a hiperfocal, para maximizar la profundidad de campo en una imagen y poder tener enfocadas (o más o menos enfocadas) sujetos cercanos y también sujetos muy lejanos.
+Pero creo que se abusa de la hiperfocal, como si fuera la panacea para mantenerlo todo a foco, cuando lo que en realidad consigues es asegurarte de que el fondo no tenga un buen foco (y muchas veces nada de la foto lo estará puesto que a la distancia hiperfocal exacta no habrá un sujeto de interés).</description>
+    </item>
+    
+    <item>
+      <title>Fernando</title>
+      <link>/fernando/</link>
+      <pubDate>Sat, 24 Oct 2020 09:22:57 +0000</pubDate>
+      
+      <guid>/fernando/</guid>
+      <description>Bienvenido a mi página personal.
+Soy aficionado a la música (flauta travesera), a la informática en general y la electrónica, desde programación al mantenimiento de redes, administración de sitio web, etc.
+Otra de mis grandes aficiones es la fotografía, aunque soy un simple amateur.
+También me gusta el deporte, habiendo practicado múltiples deportes, natación bicicleta, patinaje (en línea y cuatro ruedas)&amp;hellip;
+Aunque actualmente sólo practico con cierta asiduidad (menos de lo que quisiera) el esquí en invierno y el windsurf en verano, así como algo de bicicleta de montaña de forma esporádica.</description>
+    </item>
+    
+    <item>
+      <title>Bienvenida</title>
+      <link>/bienvenida/</link>
+      <pubDate>Sat, 24 Oct 2020 07:50:58 +0000</pubDate>
+      
+      <guid>/bienvenida/</guid>
+      <description>Bienvenido a nuestro Blog.
+Este es un blog familiar, donde vamos poniendo artículos sobre las cosas que nos interesan, cosas que nos llaman la atención, donde nos desahogamos y comentamos noticias que nos han enfurecido, o nos emocionamos con otras que nos han enternecido.
+También lo utilizamos para compartir noticias, fotos u otro contenido con nuestra familia y amigos.
+Los artículos y noticias de nuestra web están organizados en apartados y cada uno de ellos clasificado utilizando una o varias etiquetas para hacer más fácil su localización.</description>
+    </item>
+    
     <item>
       <title>Fotografía libre</title>
       <link>/aficiones/foto/fotografia-libre/</link>
       <pubDate>Tue, 23 Jun 2020 11:03:00 +0000</pubDate>
       
       <guid>/aficiones/foto/fotografia-libre/</guid>
-      <description>Libro digital sobre el procesado y revelado de fotografías empleando software libre.</description>
+      <description>Se trata de un libro digital sobre fotografía utilizando software libre.
+El proyecto se llama Fotografía Libre (anteriormente FLAC, Fotografía Libre de Alta calidad).
+Ha sido un proyecto de un año durante el cuál el autor ha ido publicando artículos diferentes sobre el tema, uno a la semana, que luego ha recopilado en un libro gratuito en formato PDF.
+En el libro se tratan muchos aspectos de la fotografía, desde la toma de imagen, a la postproducción y procesado, pasando por recomendaciones de software libre y hardware recomendado para ejecutar dicho software libre.</description>
     </item>
     
     <item>
@@ -23,15 +95,6 @@
       
       <guid>/aficiones/foto/percepcion-y-representacion-del-color/</guid>
       <description>Artículo explicativo de cómo funciona la visión humana y cómo percibimos los colores los seres humanos y cómo se puede representar matemáticamente dicha percepción.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/aficiones/foto/kk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aficiones/foto/kk/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -45,12 +108,14 @@ Tu nombreDirección de correo electrónicoSe requiere una dirección de correo
     </item>
     
     <item>
-      <title>Sobre nosotros</title>
-      <link>/acercade/</link>
+      <title>Otoñarse (El Escarabajo verde, TVE)</title>
+      <link>/aficiones/foto/otonarse-tve/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/acercade/</guid>
-      <description>Illustration from Victor Hugo et son temps (1881)   The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+      <guid>/aficiones/foto/otonarse-tve/</guid>
+      <description>Capítulo del programa El escarabajo verde de TVE que trata sobre el Otoño en la Laguna de Gallo Canta y en el valle de Baztán (Navarra).
+En él participa Alex, compañero de Ojodigital, experto fotógrafo de setas, mostrándonos su actividad fotográfica en el bosque tomando fotos de setas.
+otoñarse (El Escarabajo Verde)</description>
     </item>
     
   </channel>

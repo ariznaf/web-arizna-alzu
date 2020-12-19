@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reveladores on Familia Ariznavarreta Alzu</title>
+    <link>/etiquetas/reveladores/</link>
+    <description>Recent content in reveladores on Familia Ariznavarreta Alzu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 25 Oct 2020 09:35:12 +0000</lastBuildDate><atom:link href="/etiquetas/reveladores/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Darktable: el revelador del futuro</title>
+      <link>/aficiones/foto/darktable/</link>
+      <pubDate>Sun, 25 Oct 2020 09:35:12 +0000</pubDate>
+      
+      <guid>/aficiones/foto/darktable/</guid>
+      <description>Darktable es un programa revelador opensource que también tiene una parte de clasificación de imágenes.
+Está disponible paraWindows, Linux (en sus varias acepciones) y maxOS. Podríamos decir que es la versión opensource de Lightroom.
+Pero a pesar de que la interface se parezca algo, quien espere poder revelar sus imágenes de forma similar a como lo hacía con LR se llevará una desagradable sorpresa.
+La forma de hacer las cosas en DT es bastante diferente, y muchas veces tiene unas herramientas muy avanzadas pero complejas.</description>
+    </item>
+    
+  </channel>
+</rss>

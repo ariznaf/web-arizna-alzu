@@ -6,14 +6,39 @@
     <description>Recent content in Revelado digital on Familia Ariznavarreta Alzu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 23 Jun 2020 11:03:00 +0000</lastBuildDate><atom:link href="/etiquetas/revelado-digital/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Oct 2020 08:41:26 +0000</lastBuildDate><atom:link href="/etiquetas/revelado-digital/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revelado por zonas</title>
+      <link>/aficiones/foto/revelado-zonas/</link>
+      <pubDate>Sun, 25 Oct 2020 08:41:26 +0000</pubDate>
+      
+      <guid>/aficiones/foto/revelado-zonas/</guid>
+      <description>El revelado por zonas consiste en aplicar un efecto de revelado o procesado a una parte seleccionada de la imagen, en lugar de toda la imagen.
+Para ello se emplea generalmente una máscara de selección que determina la zona de la imagen a la que se aplicará.
+La máscara de selección puede ser tipo bitmap (habitual en los programas de procesado de imágenes como el Photoshop) o vectorial (como las utilizadas en darktable).</description>
+    </item>
+    
+    <item>
+      <title>Máscaras de luminosidad</title>
+      <link>/aficiones/foto/mascaras-de-luminosidad/</link>
+      <pubDate>Sun, 25 Oct 2020 08:40:30 +0000</pubDate>
+      
+      <guid>/aficiones/foto/mascaras-de-luminosidad/</guid>
+      <description>Máscaras de luminosidad Las máscaras de luminosidad son máscaras de tipo bitmap o bien vectoriales que se crean a partir de una imagen subyacente en función de los tonos existentes en dicha imagen.
+Así se puede seleccionar las partes de la imagen que corresponden a las luces, sombras o medios tonos, o bien crear máscaras que seleccionen un determinado rango de tonos.
+El valor de la máscara correspondiente a los tonos seleccionados es gradual, tomando el valor 0 en las zonas donde los tonos caen fuera del rango excluido (por exceso o por defecto).</description>
+    </item>
+    
     <item>
       <title>Fotografía libre</title>
       <link>/aficiones/foto/fotografia-libre/</link>
       <pubDate>Tue, 23 Jun 2020 11:03:00 +0000</pubDate>
       
       <guid>/aficiones/foto/fotografia-libre/</guid>
-      <description>Libro digital sobre el procesado y revelado de fotografías empleando software libre.</description>
+      <description>Se trata de un libro digital sobre fotografía utilizando software libre.
+El proyecto se llama Fotografía Libre (anteriormente FLAC, Fotografía Libre de Alta calidad).
+Ha sido un proyecto de un año durante el cuál el autor ha ido publicando artículos diferentes sobre el tema, uno a la semana, que luego ha recopilado en un libro gratuito en formato PDF.
+En el libro se tratan muchos aspectos de la fotografía, desde la toma de imagen, a la postproducción y procesado, pasando por recomendaciones de software libre y hardware recomendado para ejecutar dicho software libre.</description>
     </item>
     
   </channel>
